@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/promotionItem"
+        android:title="@string/lbl_menu_promotions"
+        android:icon="@drawable/ic_offers"
+        />
+
+    <item
+        android:id="@+id/scannerItem"
+        android:title="@string/lbl_menu_scanner"
+        android:icon="@drawable/ic_fingerprint"
+        />
+
+</menu>

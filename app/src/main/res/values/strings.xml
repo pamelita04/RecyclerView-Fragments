@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Example-Navigation View</string>
+    <string name="lbl_menu_promotions">Promociones</string>
+    <string name="lbl_menu_scanner">Escanear</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scanner_button">Canje Manual</string>
+    <string name="lbl_status_active">Activa</string>
+    <string name="lbl_status_noActive">Inactiva</string>
+    <string name="lbl_status_expired">Expiró</string>
+    <string name="msg_error_user_no_active">Usuario no activo</string>
+</resources>
